@@ -76,8 +76,8 @@ const Footer = ({ setCurrentPage }) => {
             <h3 className="font-bold text-lg mb-6">Contact Info</h3>
             <div className="space-y-3 text-gray-400">
               <p>Polokwane, Limpopo</p>
-              <p>+27 (0) 15 123 4567</p>
-              <p>info@linktimelearning.co.za</p>
+              <p>+27 72 922 1977</p>
+              <p>hlanhlamashaba@gmail.com</p>
             </div>
           </div>
         </div>
