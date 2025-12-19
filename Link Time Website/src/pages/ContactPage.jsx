@@ -60,7 +60,7 @@ const ContactPage = ({ setBookingModalOpen }) => {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-900 dark:text-white mb-1">Phone</h3>
-                    <p className="text-gray-600 dark:text-gray-400">+27 (0) 15 123 4567</p>
+                    <p className="text-gray-600 dark:text-gray-400">+27 72 922 1977</p>
                   </div>
                 </div>
 
@@ -70,7 +70,7 @@ const ContactPage = ({ setBookingModalOpen }) => {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-900 dark:text-white mb-1">Email</h3>
-                    <p className="text-gray-600 dark:text-gray-400">info@linktimelearning.co.za</p>
+                    <p className="text-gray-600 dark:text-gray-400">hlanhlamashaba@gmail.com</p>
                   </div>
                 </div>
 
@@ -100,14 +100,14 @@ const ContactPage = ({ setBookingModalOpen }) => {
                     <span>Book a Course</span>
                   </button>
                   <a
-                    href="tel:+27151234567"
+                    href="tel:+27729221977"
                     className="w-full bg-green-600 hover:bg-green-700 text-white px-4 py-3 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2"
                   >
                     <Phone className="w-5 h-5" />
                     <span>Call Now</span>
                   </a>
                   <a
-                    href="mailto:info@linktimelearning.co.za"
+                    href="mailto:hlanhlamashaba@gmail.com"
                     className="w-full bg-purple-600 hover:bg-purple-700 text-white px-4 py-3 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2"
                   >
                     <Mail className="w-5 h-5" />
