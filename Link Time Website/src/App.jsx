@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { ChevronDown, ChevronRight, Menu, X, Phone, Mail, MapPin, Clock, Star, Users, Award, Shield, Heart, Flame, HardHat, Calendar, MessageCircle, CheckCircle, ArrowRight, Sun, Moon, BookOpen, FileText, TrendingUp, DollarSign, Globe, Zap, Target, Briefcase, Search, Filter, User, CreditCard, Bell, Settings, Home, Info, GraduationCap, MessageSquare } from 'lucide-react';
 import { AnimatePresence, motion } from "framer-motion";
-import Navigation from "./components/Navigation";     // we'll create this next
-import HomePage from "./pages/HomePage";              // already created
+import Navigation from "./components/Navigation";     
+import HomePage from "./pages/HomePage";              
 import AboutPage from "./pages/AboutPage";
 import CoursesPage from "./pages/CoursesPage";
 import BlogPage from "./pages/BlogPage";
@@ -57,9 +57,9 @@ function App() {
                   <h4 className="font-bold text-gray-900 dark:text-white">Quick Booking Options:</h4>
                   <a href="tel:+27151234567" className="w-full bg-green-600 hover:bg-green-700 text-white px-4 py-3 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2">
                     <Phone className="w-5 h-5" />
-                    <span>Call +27 (0) 15 123 4567</span>
+                    <span>Call +27 72 922 1977</span>
                   </a>
-                  <a href="mailto:info@linktimelearning.co.za" className="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2">
+                  <a href="mailto:hlanhlamashaba@gmail.com" className="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 rounded-lg font-medium transition-colors flex items-center justify-center space-x-2">
                     <Mail className="w-5 h-5" />
                     <span>Email Us</span>
                   </a>
